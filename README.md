@@ -1,2 +1,2 @@
 # HumanResourcesSystem
-This project provides a basic Human Resoruces System.
+This project provides a basic Human Resources System.
